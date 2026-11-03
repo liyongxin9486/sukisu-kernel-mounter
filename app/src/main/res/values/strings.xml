@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sukisu内核挂载器</string>
+    <string name="reading">正在读取 Root 和 Scene 模块…</string>
+    <string name="root_ready">Root 已授权 · 找到 %1$d 个转换模块</string>
+    <string name="root_failed">暂时无法读取，请检查 Root 授权</string>
+</resources>
